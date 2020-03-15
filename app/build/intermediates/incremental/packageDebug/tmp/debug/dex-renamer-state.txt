@@ -1,0 +1,4 @@
+#Sat Mar 14 19:19:11 GMT+03:00 2020
+base.0=D\:\\Programming\\GithubLocalRepositories\\CatsVsDogs\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
